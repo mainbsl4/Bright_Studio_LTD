@@ -1,12 +1,12 @@
-#app {
+/* #app {
   display: flex;
   justify-content: center;
   align-items: center;
-}
+} */
 
-.swiper {
-  width: 240px;
-  height: 320px;
+.team-swiper {
+  width: 240px !important;
+  height: 320px !important;
 }
 
 .swiper-slide {
